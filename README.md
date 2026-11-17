@@ -4,10 +4,10 @@
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Entries](https://img.shields.io/badge/entries-20-orange.svg)]()
 
-> Free hosting for your side projects. Curated, simple, and free to use — one line per entry.
+> Free hosting for your side projects. Curated, simple, and free to use - one line per entry.
 
 ## Why This List
-Every beginner developer asks "where can I host this for free?" — and bookmarks the answer. Direct follow-on from the free LLM APIs audience: same people, simpler list.
+Every beginner developer asks "where can I host this for free?" - and bookmarks the answer. Direct follow-on from the free LLM APIs audience: same people, simpler list.
 
 ## Contents
 - [Frontend](#frontend)
@@ -57,4 +57,4 @@ Every beginner developer asks "where can I host this for free?" — and bookmark
 See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: the service must have a permanent free tier, no credit card required to start. No trial-only hosting. One entry per service.
 
 ## License
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Use freely, no attribution required.
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)- public domain. Use freely, no attribution required.
