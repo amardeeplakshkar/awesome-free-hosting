@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-free-hosting/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-22-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-23-orange.svg)]()
 
 
 > Free hosting for your side projects. Curated, simple, and free to use - one line per entry.
@@ -45,6 +45,7 @@ Every beginner developer asks "where can I host this for free?" - and bookmarks 
 | [Appwrite](https://appwrite.io/) | Open-source backend, auth, database |
 | [Spacefast](https://spacefast.com/) | Publish AI-built sites and apps, free personal plan with no card | 
 | [Cloady](https://cloady.com/docs/free-tier) | App and database hosting with a free workspace (0.5 vCPU, 1 GB RAM, 5 GB SSD), no card required and no end date |
+| [Reverhost](https://reverhost.com/products/app-hosting) | Always-on app hosting from a Dockerfile with Postgres and storage included, free plan with no card and no expiry |
 
 
 ## Databases
